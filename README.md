@@ -60,3 +60,4 @@ This bot has **two Mass DM modes**:
 ## Contact
 
 Discord: @z20h#0000
+https://guns.lol/expurgo
