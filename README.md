@@ -30,7 +30,7 @@ hello come and meet my server
 Run this command
 
 ```
-node index.js
+node script.js
 ```
 
 ## Usage
